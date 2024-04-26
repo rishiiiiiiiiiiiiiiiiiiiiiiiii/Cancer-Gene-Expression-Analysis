@@ -48,3 +48,5 @@ This project focuses on the analysis of gene expression data for various cancer 
 ## Conclusion
 
 This project provides a comprehensive analysis of gene expression data for various cancer types. By employing dimensionality reduction techniques, clustering algorithms, and classification models, it aims to identify potential biomarkers and develop robust predictive models for cancer diagnosis and subtyping. The results can contribute to a better understanding of cancer biology and pave the way for personalized cancer treatment strategies.
+
+## Presentation: https://www.canva.com/design/DAF0Ti963fk/aQDk03oT6JiOHroTHsak5A
